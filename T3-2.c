@@ -1,3 +1,4 @@
+//O(N)
 int lengthOfLongestSubstring(char* s) {
     int len = strlen(s);
 	int maxlen = 0;
