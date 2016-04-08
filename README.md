@@ -15,11 +15,11 @@ There are two sorted arrays nums1 and nums2 of size m and n respectively. Find t
 
 ###a3
 question: Longest Substring Without Repeating Characters  <br>
-[my answer](https://github.com/ityoung/leetcode/blob/master/LongestSubstringWithoutRepeatingCharacters.c "Time complexity: O(N^2)&#10;Space complexity: O(1)") and [leetcode answer](https://github.com/ityoung/leetcode/blob/master/T3-2.c "Time complexity: O(N)&#10;Space complexity: O(N)")<br><br>
+[my answer](https://github.com/ityoung/leetcode/blob/master/LongestSubstringWithoutRepeatingCharacters.c "Time complexity: O(N^2)&#13;Space complexity: O(1)") and [leetcode answer](https://github.com/ityoung/leetcode/blob/master/T3-2.c "Time complexity: O(N)&#13;Space complexity: O(N)")<br><br>
 Given a string, find the length of the longest substring without repeating characters. For example, the longest substring without repeating letters for "abcabcbb" is "abc", which the length is 3. For "bbbbb" the longest substring is "b", with the length of 1.
 
 ###a2
-question: Add Two Numbers  <br>[my answer](https://github.com/ityoung/leetcode/blob/master/AddTwoNumbers.c "Time complexity: O(max(m,n))&#10;Space complexity: O(max(m,n))")<br><br>
+question: Add Two Numbers  <br>[my answer](https://github.com/ityoung/leetcode/blob/master/AddTwoNumbers.c "Time complexity: O(max(m,n))&#13;Space complexity: O(max(m,n))")<br><br>
 You are given two linked lists representing two non-negative numbers. The digits are stored in reverse order and each of their nodes contain a single digit. Add the two numbers and return it as a linked list.
 
 Input: (2 -> 4 -> 3) + (5 -> 6 -> 4)
