@@ -1,12 +1,12 @@
 # [leetcode](https://leetcode.com/problemset/algorithms/)
 
 #4
-question: Median of Two Sorted Arrays <br>[my answer](https://github.com/ityoung/leetcode/blob/master/MedianofTwoSortedArrays.c)(run time complexity is O(N))<br><br>
+question: Median of Two Sorted Arrays <br>[my answer](https://github.com/ityoung/leetcode/blob/master/MedianofTwoSortedArrays.c "run time complexity is O(N)")<br><br>
 There are two sorted arrays nums1 and nums2 of size m and n respectively. Find the median of the two sorted arrays. The overall run time complexity should be O(log (m+n)).
 
 #3
 question: Longest Substring Without Repeating Characters  <br>
-[my answer](https://github.com/ityoung/leetcode/blob/master/LongestSubstringWithoutRepeatingCharacters.c)(run time complexity O(N^2)) and [leetcode answer](https://github.com/ityoung/leetcode/blob/master/T3-2.c)(run time complexity O(N))<br><br>
+[my answer](https://github.com/ityoung/leetcode/blob/master/LongestSubstringWithoutRepeatingCharacters.c "run time complexity O(N^2)") and [leetcode answer](https://github.com/ityoung/leetcode/blob/master/T3-2.c "run time complexity O(N)")<br><br>
 Given a string, find the length of the longest substring without repeating characters. For example, the longest substring without repeating letters for "abcabcbb" is "abc", which the length is 3. For "bbbbb" the longest substring is "b", with the length of 1.
 
 #2
