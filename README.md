@@ -6,18 +6,18 @@ There are two sorted arrays nums1 and nums2 of size m and n respectively. Find t
 
 #3
 question: Longest Substring Without Repeating Characters  <br>
-[my answer](https://github.com/ityoung/leetcode/blob/master/LongestSubstringWithoutRepeatingCharacters.c "run time complexity O(N^2)") and [leetcode answer](https://github.com/ityoung/leetcode/blob/master/T3-2.c "run time complexity O(N)")<br><br>
+[my answer](https://github.com/ityoung/leetcode/blob/master/LongestSubstringWithoutRepeatingCharacters.c "Time complexity: O(N^2)<br>Space complexity: O(1)") and [leetcode answer](https://github.com/ityoung/leetcode/blob/master/T3-2.c "Time complexity: O(N)<br>Space complexity: O(N)")<br><br>
 Given a string, find the length of the longest substring without repeating characters. For example, the longest substring without repeating letters for "abcabcbb" is "abc", which the length is 3. For "bbbbb" the longest substring is "b", with the length of 1.
 
 #2
-question: Add Two Numbers  <br>[my answer](https://github.com/ityoung/leetcode/blob/master/AddTwoNumbers.c)<br><br>
+question: Add Two Numbers  <br>[my answer](https://github.com/ityoung/leetcode/blob/master/AddTwoNumbers.c "Time complexity: O(max(m,n))<br>Space complexity: O(max(m,n))")<br><br>
 You are given two linked lists representing two non-negative numbers. The digits are stored in reverse order and each of their nodes contain a single digit. Add the two numbers and return it as a linked list.
 
 Input: (2 -> 4 -> 3) + (5 -> 6 -> 4)
 Output: 7 -> 0 -> 8
 
 #1
-question: Two Sum  <br>[my answer](https://github.com/ityoung/leetcode/blob/master/TwoSum.c)<br><br>
+question: Two Sum  <br>[my answer](https://github.com/ityoung/leetcode/blob/master/TwoSum.c "Time complexity: O(N)")<br><br>
 Given an array of integers, return indices of the two numbers such that they add up to a specific target.<br>
 You may assume that each input would have exactly one solution.<br>
 Example:
