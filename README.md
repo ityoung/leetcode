@@ -4,9 +4,9 @@ https://leetcode.com/problemset/algorithms/
 #3
 question: Longest Substring Without Repeating Characters
 
-my answer(O(N^2)):https://github.com/ityoung/leetcode/blob/master/LongestSubstringWithoutRepeatingCharacters.c
+my answer(run time complexity O(N^2)):https://github.com/ityoung/leetcode/blob/master/LongestSubstringWithoutRepeatingCharacters.c
 
-leetcode answer(O(N)):https://github.com/ityoung/leetcode/blob/master/T3-2.c
+leetcode answer(run time complexity O(N)):https://github.com/ityoung/leetcode/blob/master/T3-2.c
 
 Given a string, find the length of the longest substring without repeating characters. For example, the longest substring without repeating letters for "abcabcbb" is "abc", which the length is 3. For "bbbbb" the longest substring is "b", with the length of 1.
 
