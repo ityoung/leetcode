@@ -1,11 +1,11 @@
 #[leetcode](https://leetcode.com)
-*problems
-  *[algorithms](https://leetcode.com/problemset/algorithms/)
-    *[4. Median of Two Sorted Arrays](https://github.com/ityoung/leetcode#A4)
-    *[3. Longest Substring Without Repeating Characters](https://github.com/ityoung/leetcode#A3)
-    *[2. Add Two Numbers](https://github.com/ityoung/leetcode#A2)
-    *[1. Two Sum](https://github.com/ityoung/leetcode#A1)
-  *[database](https://leetcode.com/problemset/database/)
+* problems
+  * [algorithms](https://leetcode.com/problemset/algorithms/)
+    * [4. Median of Two Sorted Arrays](https://github.com/ityoung/leetcode#A4)
+    * [3. Longest Substring Without Repeating Characters](https://github.com/ityoung/leetcode#A3)
+    * [2. Add Two Numbers](https://github.com/ityoung/leetcode#A2)
+    * [1. Two Sum](https://github.com/ityoung/leetcode#A1)
+  * [database](https://leetcode.com/problemset/database/)
 
 #A4
 question: Median of Two Sorted Arrays <br>[my answer](https://github.com/ityoung/leetcode/blob/master/MedianofTwoSortedArrays.c "Time complexity: O(N)")<br><br>
