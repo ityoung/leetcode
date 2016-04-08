@@ -1,4 +1,4 @@
-//O(N^2)
+//run time complexity O(N^2)
 int lengthOfLongestSubstring(char* s) {
     int len = strlen(s), temp = 0, maxlen = 0, equal = 1;
     int index1 = 0,index2 = 1,index3;
