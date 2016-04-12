@@ -2,6 +2,8 @@
 [leetcode](https://leetcode.com)(leetcode website)
 * Problems
   * [algorithms](https://github.com/ityoung/leetcode/tree/master/Algorithms)
+    * [6. ZigZag Conversion](https://github.com/ityoung/leetcode#a6)
+    * [5. Longest Palindromic Substring](https://github.com/ityoung/leetcode#a5)
     * [4. Median of Two Sorted Arrays](https://github.com/ityoung/leetcode#a4)
     * [3. Longest Substring Without Repeating Characters](https://github.com/ityoung/leetcode#a3)
     * [2. Add Two Numbers](https://github.com/ityoung/leetcode#a2)
