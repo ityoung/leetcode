@@ -2,6 +2,9 @@
 [leetcode](https://leetcode.com)(leetcode website)
 * Problems
   * [algorithms](https://github.com/ityoung/leetcode/tree/master/Algorithms)
+    * [9. Palindrome Number](https://github.com/ityoung/leetcode#a9)
+    * [8. String to Integer (atoi)](https://github.com/ityoung/leetcode#a8)
+    * [7. Reverse Integer](https://github.com/ityoung/leetcode#a7)
     * [6. ZigZag Conversion](https://github.com/ityoung/leetcode#a6)
     * [5. Longest Palindromic Substring](https://github.com/ityoung/leetcode#a5)
     * [4. Median of Two Sorted Arrays](https://github.com/ityoung/leetcode#a4)
@@ -10,6 +13,23 @@
     * [1. Two Sum](https://github.com/ityoung/leetcode#a1)
   * [database](https://leetcode.com/problemset/database/)(leetcode website)
 * [About me](https://github.com/ityoung/leetcode#about-me)
+
+###a9
+question: Palindrome Number <br>[my answer](https://github.com/ityoung/leetcode//blob/master/Algorithms/PalindromeNumber.c "Time complexity: O(N);Space complexity: O(1)")<br><br>
+Determine whether an integer is a palindrome. Do this without extra space.
+
+###a8
+question: String to Integer (atoi) <br>[my answer](https://github.com/ityoung/leetcode//blob/master/Algorithms/StringtoInteger(atoi).c "Time complexity: O(N)")<br><br>
+Implement atoi to convert a string to an integer.
+
+Hint: Carefully consider all possible input cases. If you want a challenge, please do not see below and ask yourself what are the possible input cases.
+
+###a7
+question: Reverse Integer <br>[my answer](https://github.com/ityoung/leetcode//blob/master/Algorithms/ReverseInteger.c "Time complexity: O(N)")<br><br>
+Reverse digits of an integer.
+
+Example1: x = 123, return 321
+Example2: x = -123, return -321
 
 ###a6
 question: ZigZag Conversion <br>[my answer](https://github.com/ityoung/leetcode//blob/master/Algorithms/ZigZagConversion.c "Time complexity: O(N)")<br><br>
