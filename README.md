@@ -2,17 +2,39 @@
 [leetcode](https://leetcode.com)(leetcode website)
 * Problems
   * [algorithms](https://github.com/ityoung/leetcode/tree/master/Algorithms)
+    * [10. Regular Expression Matching](https://github.com/ityoung/leetcode#a10 "hard") Recursion 递归
     * [9. Palindrome Number](https://github.com/ityoung/leetcode#a9)
     * [8. String to Integer (atoi)](https://github.com/ityoung/leetcode#a8)
     * [7. Reverse Integer](https://github.com/ityoung/leetcode#a7)
     * [6. ZigZag Conversion](https://github.com/ityoung/leetcode#a6)
-    * [5. Longest Palindromic Substring](https://github.com/ityoung/leetcode#a5)
+    * [5. Longest Palindromic Substring](https://github.com/ityoung/leetcode#a5 "hard") Manacher
     * [4. Median of Two Sorted Arrays](https://github.com/ityoung/leetcode#a4)
     * [3. Longest Substring Without Repeating Characters](https://github.com/ityoung/leetcode#a3)
     * [2. Add Two Numbers](https://github.com/ityoung/leetcode#a2)
     * [1. Two Sum](https://github.com/ityoung/leetcode#a1)
   * [database](https://leetcode.com/problemset/database/)(leetcode website)
 * [About me](https://github.com/ityoung/leetcode#about-me)
+
+###a10
+question: Palindrome Number <br>[my answer](https://github.com/ityoung/leetcode//blob/master/Algorithms/RegularExpressionMatching.c "Time complexity: O(2N)")<br><br>
+Implement regular expression matching with support for '.' and '*'.
+
+'.' Matches any single character.<br>
+'*' Matches zero or more of the preceding element.
+
+The matching should cover the entire input string (not partial).
+
+The function prototype should be:<br>
+bool isMatch(const char *s, const char *p)
+
+Some examples:<br>
+isMatch("aa","a") → false<br>
+isMatch("aa","aa") → true<br>
+isMatch("aaa","aa") → false<br>
+isMatch("aaaaa", "a*") → true<br>
+isMatch("aa", ".*") → true<br>
+isMatch("ab", ".*") → true<br>
+isMatch("aab", "c*a*b") → true<br>
 
 ###a9
 question: Palindrome Number <br>[my answer](https://github.com/ityoung/leetcode//blob/master/Algorithms/PalindromeNumber.c "Time complexity: O(N);Space complexity: O(1)")<br><br>
