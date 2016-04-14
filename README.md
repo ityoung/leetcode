@@ -28,7 +28,7 @@ Hint: Carefully consider all possible input cases. If you want a challenge, plea
 question: Reverse Integer <br>[my answer](https://github.com/ityoung/leetcode//blob/master/Algorithms/ReverseInteger.c "Time complexity: O(N)")<br><br>
 Reverse digits of an integer.
 
-Example1: x = 123, return 321
+Example1: x = 123, return 321<br>
 Example2: x = -123, return -321
 
 ###a6
