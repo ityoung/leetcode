@@ -2,6 +2,8 @@
 [leetcode](https://leetcode.com)(leetcode website)
 * Problems
   * [algorithms](https://github.com/ityoung/leetcode/tree/master/Algorithms)
+    * [13. Roman to Integer](https://github.com/ityoung/leetcode#a13)
+    * [12. Integer to Roman](https://github.com/ityoung/leetcode#a12)
     * [11. Container With Most Water](https://github.com/ityoung/leetcode#a11)
     * [10. Regular Expression Matching](https://github.com/ityoung/leetcode#a10 "hard") Recursion 递归
     * [9. Palindrome Number](https://github.com/ityoung/leetcode#a9)
@@ -15,6 +17,18 @@
     * [1. Two Sum](https://github.com/ityoung/leetcode#a1)
   * [database](https://leetcode.com/problemset/database/)(leetcode website)
 * [About me](https://github.com/ityoung/leetcode#about-me)
+
+###a13
+question: Roman to Integer <br>[my answer](https://github.com/ityoung/leetcode//blob/master/Algorithms/RomantoInteger.c "Time complexity: O(N)")<br><br>
+Given a roman numeral, convert it to an integer.
+
+Input is guaranteed to be within the range from 1 to 3999.
+
+###a12
+question: Integer to Roman <br>[my answer1](https://github.com/ityoung/leetcode//blob/master/Algorithms/IntegertoRoman1.c "Time complexity: O(N)")|[my answer2](https://github.com/ityoung/leetcode//blob/master/Algorithms/IntegertoRoman2.c "Time complexity: O(N)")|[my answer3](https://github.com/ityoung/leetcode//blob/master/Algorithms/IntegertoRoman3.c "Time complexity: O(N)")<br><br>
+Given an integer, convert it to a roman numeral.
+
+Input is guaranteed to be within the range from 1 to 3999.
 
 ###a11
 question: Container With Most Water <br>[my answer](https://github.com/ityoung/leetcode//blob/master/Algorithms/ContainerWithMostWater.c "Time complexity: O(N)")<br><br>
