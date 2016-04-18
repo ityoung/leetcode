@@ -10,9 +10,8 @@ char* longestCommonPrefix(char** strs, int strsSize) {
 	    if(strs[i][j]==temp[j])
 		continue;
 	    else{
-		lc = j+1;
-		temp[j] ='\0';
-		break;
+		temp[j++] ='\0';
+		lc = j;
 	    }
     return temp;
 }
