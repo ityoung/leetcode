@@ -2,6 +2,7 @@
 [leetcode](https://leetcode.com)(leetcode website)
 * Problems
   * [algorithms](https://github.com/ityoung/leetcode/tree/master/Algorithms)
+    * [14. Longest Common Prefix](https://github.com/ityoung/leetcode#a14)
     * [13. Roman to Integer](https://github.com/ityoung/leetcode#a13)
     * [12. Integer to Roman](https://github.com/ityoung/leetcode#a12)
     * [11. Container With Most Water](https://github.com/ityoung/leetcode#a11)
@@ -17,6 +18,10 @@
     * [1. Two Sum](https://github.com/ityoung/leetcode#a1)
   * [database](https://leetcode.com/problemset/database/)(leetcode website)
 * [About me](https://github.com/ityoung/leetcode#about-me)
+
+###a14
+question: Longest Common Prefix <br>[my answer](https://github.com/ityoung/leetcode//blob/master/Algorithms/LongestCommonPrefix.c "Time complexity: O(MN)")<br><br>
+Write a function to find the longest common prefix string amongst an array of strings.
 
 ###a13
 question: Roman to Integer <br>[my answer](https://github.com/ityoung/leetcode//blob/master/Algorithms/RomantoInteger.c "Time complexity: O(N)")<br><br>
